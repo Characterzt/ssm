@@ -1,2 +1,0 @@
-# ssm
-git-test
